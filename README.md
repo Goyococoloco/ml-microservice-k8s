@@ -1,4 +1,4 @@
-<include a CircleCI status badge, here>
+[![<vidbregar>](https://circleci.com/gh/vidbregar/ml-microservice-k8s.svg?style=svg)](https://app.circleci.com/pipelines/github/vidbregar/ml-microservice-k8s)
 
 ## Project Overview
 
